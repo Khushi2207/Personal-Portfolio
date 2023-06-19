@@ -497,7 +497,7 @@ img {
 }
 
 .skills__html{
-  width: 60%;
+  width: 85%;
 }
 
 .skills__dsa{
@@ -505,11 +505,11 @@ img {
 }
 
 .skills__cpp{
-  width: 85%;
+  width: 90%;
 }
 
 .skills__oops{
-  width: 80%;
+  width: 85%;
 }
 
 .skills__sql{
@@ -520,12 +520,16 @@ img {
   width: 40%;
 }
 
-.skills__css{
-  width: 60%;
+.skills__react{
+  width: 80%;
+}
+
+.skills__angular{
+  width: 90%;
 }
 
 .skills__js{
-  width: 40%;
+  width: 70%;
 }
 
 .skills__ml{
